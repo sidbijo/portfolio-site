@@ -23,7 +23,7 @@ export default function Home() {
         "Developed interactive dashboards for trend analysis and financial forecasting.",
         "Delivered a polished, responsive UI with Bootstrap and reusable templates for improved usability.",
       ],
-      github: "https://github.com/sidbijo",
+      github: "https://github.com/sidbijo/personal-expense-tracker",
       demo: "",
     },
     {
