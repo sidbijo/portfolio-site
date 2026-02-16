@@ -34,7 +34,7 @@ export default function Home() {
         "Uses statistical analysis and probability distribution functions to provide insights.",
         "Includes optional filtering by specific opponents.",
       ],
-      github: "https://github.com/sidbijo",
+      github: "https://github.com/sidbijo/nba-player-probability-calculator",
       demo: "",
     },
   ];
