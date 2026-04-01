@@ -75,7 +75,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/sidharth-bijo-79990123b/"
+              href="https://www.linkedin.com/in/sidharthbijo/"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg border border-zinc-300 px-6 py-3 hover:bg-zinc-100 dark:border-zinc-700 dark:hover:bg-zinc-900"
